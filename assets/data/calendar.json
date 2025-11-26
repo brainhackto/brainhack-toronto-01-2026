@@ -1,0 +1,117 @@
+[
+	{
+		"title": "Registration & Breakfast",
+		"start": "2024-12-11T08:00:00",
+		"end": "2024-12-11T09:00:00"
+	},
+	{
+		"title": "BrainHack Introduction and Welcome",
+		"start": "2024-12-11T09:00:00",
+		"end": "2024-12-11T09:20:00"
+	},
+	{
+		"title": "Challenge Presentation - I",
+		"start": "2024-12-11T09:20:00",
+		"end": "2024-12-11T10:20:00"
+	},
+	{
+		"title": "Coffee Break",
+		"start": "2024-12-11T10:20:00",
+		"end": "2024-12-11T10:40:00"
+	},
+	{
+		"title": "Challenge Presentation - II",
+		"start": "2024-12-11T10:40:00",
+		"end": "2024-12-11T11:40:00"
+	},
+	{
+		"title": "Lunch Break & Networking",
+		"start": "2024-12-11T11:40:00",
+		"end": "2024-12-11T13:00:00"
+	},
+	{
+		"title": "Ice Breaker, Project Pitches, and Team Formation",
+		"start": "2024-12-11T13:00:00",
+		"end": "2024-12-11T15:00:00"
+	},
+	{
+		"title": "Coffee Break",
+		"start": "2024-12-11T15:00:00",
+		"end": "2024-12-11T15:30:00"
+	},
+	{
+		"title": "Open Hacking & Ask-Me-Anything Hour",
+		"start": "2024-12-11T15:30:00",
+		"end": "2024-12-11T17:00:00"
+	},
+	{
+		"title": "Breakfast and Open Hacking",
+		"start": "2024-12-12T09:00:00",
+		"end": "2024-12-12T10:20:00"
+	},
+	{
+		"title": "Coffee Break",
+		"start": "2024-12-12T10:20:00",
+		"end": "2024-12-12T10:40:00"
+	},
+	{
+		"title": "Open Hacking",
+		"start": "2024-12-12T10:40:00",
+		"end": "2024-12-12T12:00:00"
+	},
+	{
+		"title": "Lunch Break & Networking",
+		"start": "2024-12-12T12:00:00",
+		"end": "2024-12-12T13:00:00"
+	},
+	{
+		"title": "Open Hacking",
+		"start": "2024-12-12T13:00:00",
+		"end": "2024-12-12T14:40:00"
+	},
+	{
+		"title": "Coffee Break",
+		"start": "2024-12-12T14:40:00",
+		"end": "2024-12-12T15:00:00"
+	},
+	{
+		"title": "Open Hacking",
+		"start": "2024-12-12T15:00:00",
+		"end": "2024-12-12T17:00:00"
+	},
+	{
+		"title": "Game, Food, and Social (at SickKids)",
+		"start": "2024-12-12T17:00:00",
+		"end": "2024-12-12T19:00:00"
+	},
+	{
+		"title": "Breakfast and Open Hacking",
+		"start": "2024-12-13T09:00:00",
+		"end": "2024-12-13T10:20:00"
+	},
+	{
+		"title": "Coffee Break",
+		"start": "2024-12-13T10:20:00",
+		"end": "2024-12-13T10:40:00"
+	},
+	{
+		"title": "BrainHack Toronto Committee Meeting (all are invited) & Open Hacking",
+		"start": "2024-12-13T10:40:00",
+		"end": "2024-12-13T12:00:00"
+	},
+	{
+		"title": "Lunch Break & Networking",
+		"start": "2024-12-13T12:00:00",
+		"end": "2024-12-13T13:00:00"
+	},
+	{
+		"title": "Open Hacking",
+		"start": "2024-12-13T13:00:00",
+		"end": "2024-12-13T15:00:00"
+	},
+	{
+		"title": "Project Presentation and Wrap-Up",
+		"start": "2024-12-13T15:00:00",
+		"end": "2024-12-13T17:00:00"
+	}
+]
