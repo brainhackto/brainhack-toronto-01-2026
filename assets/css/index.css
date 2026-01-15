@@ -522,3 +522,61 @@
 	color: #000000;
 	font-size: large;
 }
+
+.supporters-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 32px;
+  align-items: center;
+  justify-items: center;
+  margin-top: 24px;
+}
+
+/* each logo gets the same “slot” */
+.supporter{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 140px;      /* tweak this */
+  width: 100%;
+  max-width: 340px;   /* prevents gigantic logos */
+  padding: 8px 12px;
+}
+
+/* scale image nicely inside the slot */
+.supporter img{
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+/* --- Reusable logo grid --- */
+
+.logo-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 32px;
+  align-items: center;
+  justify-items: center;
+  margin-top: 24px;
+}
+
+.logo-item{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 130px;
+  width: 100%;
+  max-width: 340px;
+  padding: 8px 12px;
+  text-decoration: none;
+}
+
+.logo-item img{
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  display: block;
+}
+
