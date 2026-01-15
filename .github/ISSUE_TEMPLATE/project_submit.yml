@@ -1,6 +1,6 @@
 name: BrainHack Toronto 2026 Project Submission
 description: Please submit your project.
-title: "[Project Title]: "
+title: "[Project]: "
 labels: ["project"]
 assignees:
   - ["juchiyu", "edickie", "ryanapanela"]
@@ -56,14 +56,22 @@ body:
       placeholder: Please enter NA if not applicable.
     validations:
       required: false
-  - type: input
-    id: volunteer
+  - type: dropdown
+    id: skills
     attributes:
-      label: Recording and streaming volunteer
-      description: Who can help with recording and streaming the session from your team?
-      placeholder: e.g., "Name, email address"
-    validations:
-      required: false
+      label: What skills do you require from participants? (Select all that apply)
+      multiple: true
+      options:
+        - Python
+        - R
+        - Matlab
+        - Bash/Shell scripting
+        - Git & GitHub
+        - Neuroimaging
+        - Machine Learning / AI
+        - Data Visualization
+        - Statistics
+        - Nothing really, just interested!
   - type: checkboxes
     id: terms
     attributes:

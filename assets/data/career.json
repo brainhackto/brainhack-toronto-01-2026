@@ -1,22 +1,27 @@
 [
 	{
-		"person":"Tristan Glatard, PhD", 
+		"person":"Tristan Glatard", 
 		"job": "Scientific Director, Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health",
 	    "bio": ""
 	},
 	{
-		"person":"Farzad Khalvati, PhD", 
+		"person":"Farzad Khalvati", 
 		"job": "Senior Scientist, The Hospital for Sick Children",
 	    "bio": ""
 	},
 	{
 		"person":"Rosanna Olsen", 
-		"job": "Scientist, Rotman Research Institute",
+		"job": "Scientist, Rotman Research Institute, Baycrest Health Sciences",
 	    "bio": ""
 	},
 	{
 		"person":"Kâmil Uludağ", 
 		"job": "Senior scientist, Krembil Brain Institute, University Health Network, Sunnybrook Research Institute",
+	    "bio": ""
+	},
+	{
+		"person":"Milad Lankarany", 
+		"job": "Scientist, Krembil Research Institute, University Health Network, Toronto Western Hospital",
 	    "bio": ""
 	}
 ]
